@@ -1,3 +1,3 @@
-<img src="cover.jpeg" />
+<img src="/profile/cover.jpeg" />
 
 ## Hi there 👋
