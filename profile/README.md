@@ -2,4 +2,4 @@
 
 ### Hi there 👋
 
-Welcome to **onWidget**'s organization on GitHub where we love all kind of open source widgets.
+Welcome to **Arthelokyo**'s organization on GitHub where we love all kind of open source widgets.
